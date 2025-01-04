@@ -1,19 +1,11 @@
-# Hey there, I'm Vamsi Munjuluri! 👋
+🎓 I graduated from UIC with a Master's in Computer Science and have professional experience as a front-end developer. My expertise lies in building responsive, interactive, and visually stunning websites using Next.js, React, and Tailwind CSS.
 
-🎓 Graduated from UIC with a Master's in Computer Science, I've developed a strong foundation in data science and recently delved into web development. 🌐
+🌐 Over the years, I’ve honed my skills by working on impactful projects, including designing modernized websites, optimizing user interfaces, and building scalable, reusable components. Collaborating with designers and developers has been integral to my journey, allowing me to deliver seamless user experiences aligned with creative visions.
 
-🖥️ My newfound passion for web development is fueled by my love for creativity and a desire to build visually appealing websites. I'm currently exploring UI/UX and front-end development to enhance my skills in creating interactive and aesthetic web experiences.
+📸 Beyond coding, I’m a passionate photographer, capturing unique perspectives that inspire my work. My creative background blends into my development process, enabling me to craft visually engaging digital experiences.
 
-📸 When I'm not coding, I'm a photographer, capturing the world through my lens and bringing a unique perspective to my projects.
+🎨 Currently, I’m exploring the exciting world of UI/UX design and creative coding, with plans to showcase innovative projects soon. Looking ahead, I aim to delve into AI, Machine Learning, and Computer Vision to broaden my technical expertise and tackle more advanced challenges.
 
-🎨 I'm on a journey to learn creative coding, aiming to merge technical skills with visual artistry. Check out my repositories for a blend of data insights and creative web projects!
+🔗 Let’s connect and collaborate to create something extraordinary!
 
-🔗 Let's connect! I'm eager to collaborate and innovate with others passionate about tech.
-
-Here's to creating something amazing together!
-
-
-
-
-
-
+![](https://komarev.com/ghpvc/?username=VamsiMunjuluri&label=Visitors&style=for-the-badge&color=1F6FEB)
