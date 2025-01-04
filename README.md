@@ -16,5 +16,4 @@ Here's to creating something amazing together!
 
 
 
-![](https://komarev.com/ghpvc/?username=VamsiMunjuluri&label=Visitors&style=for-the-badge&color=1F6FEB)
 
