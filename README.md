@@ -1,3 +1,5 @@
+# Hey there, I'm Vamsi! 
+
 🎓 I graduated from UIC with a Master's in Computer Science and have professional experience as a front-end developer. My expertise lies in building responsive, interactive, and visually stunning websites using Next.js, React, and Tailwind CSS.
 
 🌐 Over the years, I’ve honed my skills by working on impactful projects, including designing modernized websites, optimizing user interfaces, and building scalable, reusable components. Collaborating with designers and developers has been integral to my journey, allowing me to deliver seamless user experiences aligned with creative visions.
