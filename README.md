@@ -7,5 +7,3 @@
 🎨 Currently, I’m exploring the exciting world of UI/UX design and creative coding, with plans to showcase innovative projects soon. Looking ahead, I aim to delve into AI, Machine Learning, and Computer Vision to broaden my technical expertise and tackle more advanced challenges.
 
 🔗 Let’s connect and collaborate to create something extraordinary!
-
-![](https://komarev.com/ghpvc/?username=VamsiMunjuluri&label=Visitors&style=for-the-badge&color=1F6FEB)
